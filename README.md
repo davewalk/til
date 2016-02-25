@@ -1,7 +1,7 @@
 # today i learned
 
 ### git
-* [git/partial-git-add.md](Partial Git Add)
+* [Partial Git Add](git/partial-git-add.md)
 
 ### vim
-* [vim/remote-file-read-write.md](Remote File Read/Write)
+* [Remote File Read/Write](vim/remote-file-read-write.md)
