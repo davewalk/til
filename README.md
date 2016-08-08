@@ -1,5 +1,8 @@
 # today i learned
 
+### elasticsearch
+* [List Indices](list-indices.md)
+
 ### git
 * [Partial Git Add](git/partial-git-add.md)
 
